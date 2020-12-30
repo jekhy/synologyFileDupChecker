@@ -14,6 +14,6 @@ docker run --rm \
 ```
 
 ### GUI模式
-![GUI启动容器-配置挂载目录][img1.png]
-![GUI启动容器-配置输出参数][img2.png]
+![GUI启动容器-配置挂载目录](img1.png)
+![GUI启动容器-配置输出参数](img2.png)
 
